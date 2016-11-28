@@ -1,5 +1,5 @@
 #include <iostream>
-#include "LinkedList.cpp"
+#include "SLinkedList.cpp"
 
 using namespace std;
 
