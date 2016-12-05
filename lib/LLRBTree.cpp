@@ -1,3 +1,11 @@
+/*
+Trying to implement Left Leaning Red Black Trees(LLRB) 
+from Algorithms 4th Edition 
+by Robert Sedgewick
+
+the code written Below is BUGGY and needed to fix Logical Errors
+*/
+
 #include <iostream>
 #include <algorithm>
 #include <cstdlib>
