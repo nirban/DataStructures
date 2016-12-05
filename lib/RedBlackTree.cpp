@@ -1,3 +1,8 @@
+/*
+ * THe following code is implementation of 
+ * Red Black Trees from CLRS
+ */
+
 #include <iostream>
 #include <algorithm>
 #include <cstdlib>
